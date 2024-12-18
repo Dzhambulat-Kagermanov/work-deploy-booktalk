@@ -1,0 +1,53 @@
+.frame-512951 {
+	height: 99px;
+}
+
+.frame-512951 .overlap-group-4 {
+	height: 99px;
+	position: relative;
+}
+
+.frame-512951 .rectangle-4 {
+	background-color: var(--collection-1-color-main-2);
+	border-radius: 47px;
+	height: 94px;
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+
+.frame-512951 .div-4 {
+	color: var(--collection-1-color-main-3);
+	font-family: var(--main-text-font-family);
+	font-size: var(--main-text-font-size);
+	font-style: var(--main-text-font-style);
+	font-weight: var(--main-text-font-weight);
+	left: 32px;
+	letter-spacing: var(--main-text-letter-spacing);
+	line-height: var(--main-text-line-height);
+	position: absolute;
+	top: 22px;
+}
+
+.frame-512951.questions12 .text-wrapper-64 {
+	position: absolute;
+}
+.frame-512951 .vector-3 {
+	height: 32px;
+	position: absolute;
+	top: 67px;
+	width: 42px;
+}
+
+.frame-512951.property-1-10-default {
+	width: 559px;
+}
+.frame-512951.property-1-10-default .rectangle-4 {
+	width: 619px;
+}
+.frame-512951.property-1-10-default .div-4 {
+	width: 559px;
+}
+.frame-512951.property-1-10-default .vector-3 {
+	left: 579px;
+}

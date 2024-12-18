@@ -1,0 +1,227 @@
+.screen-screen {
+  background-color: #edecf1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-screen .screen-2 {
+  background-color: var(--collection-1-color-background);
+  height: 896px;
+  position: relative;
+  width: 1440px;
+}
+
+.screen-screen .element-5 {
+  height: 490px;
+  left: 1116px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 324px;
+}
+
+.screen-screen .overlap-12 {
+  height: 708px;
+  left: 16px;
+  position: absolute;
+  top: 188px;
+  width: 1214px;
+}
+
+.screen-screen .overlap-13 {
+  height: 589px;
+  left: 0;
+  position: absolute;
+  top: 119px;
+  width: 1100px;
+}
+
+.screen-screen .overlap-14 {
+  height: 430px;
+  left: 0;
+  position: absolute;
+  top: 156px;
+  width: 1051px;
+}
+
+.screen-screen .layer-3 {
+  height: 286px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+  width: 370px;
+}
+
+.screen-screen .frame-72 {
+  background-color: var(--collection-1-color-main-3);
+  border-radius: 20px;
+  height: 176px;
+  left: 356px;
+  position: absolute;
+  top: 0;
+  width: 695px;
+}
+
+.screen-screen .text-wrapper-62 {
+  color: var(--collection-1-color-main-2);
+  font-family: var(--main-text-font-family);
+  font-size: var(--main-text-font-size);
+  font-style: var(--main-text-font-style);
+  font-weight: var(--main-text-font-weight);
+  left: 32px;
+  letter-spacing: var(--main-text-letter-spacing);
+  line-height: var(--main-text-line-height);
+  position: absolute;
+  top: 31px;
+  width: 491px;
+}
+
+.screen-screen .design-component-instance-node {
+  left: 326px !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  top: 100px !important;
+  width: 185px !important;
+}
+
+.screen-screen .frame-73 {
+  left: 32px !important;
+  position: absolute !important;
+  top: 100px !important;
+}
+
+.screen-screen .star {
+  height: 171px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.screen-screen .star-2 {
+  height: 136px;
+  left: 965px;
+  position: absolute;
+  top: 378px;
+  width: 135px;
+}
+
+.screen-screen .star-3 {
+  height: 153px;
+  left: 636px;
+  position: absolute;
+  top: 436px;
+  width: 242px;
+}
+
+.screen-screen .polygon-2 {
+  height: 151px;
+  left: 457px;
+  position: absolute;
+  top: 373px;
+  width: 136px;
+}
+
+.screen-screen .star-4 {
+  height: 166px;
+  left: 1053px;
+  position: absolute;
+  top: 0;
+  width: 162px;
+}
+
+.screen-screen .frame-74 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 396px;
+  padding: 10px;
+  position: absolute;
+  top: 159px;
+}
+
+.screen-screen .text-wrapper-63 {
+  color: var(--collection-1-color-main-2);
+  font-family: "Raleway", Helvetica;
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.screen-screen .star-5 {
+  height: 138px;
+  left: 858px;
+  position: absolute;
+  top: 130px;
+  width: 138px;
+}
+
+.screen-screen .star-6 {
+  height: 166px;
+  left: 197px;
+  position: absolute;
+  top: 111px;
+  width: 162px;
+}
+
+.screen-screen .polygon-3 {
+  height: 135px;
+  left: 504px;
+  position: absolute;
+  top: 156px;
+  width: 122px;
+}
+
+.screen-screen .overlap-group-13 {
+  background-color: var(--collection-1-color-main-2);
+  border-radius: 50px;
+  height: 76px;
+  left: 17px;
+  position: absolute;
+  top: 16px;
+  width: 1406px;
+}
+
+.screen-screen .frame-75 {
+  left: 1185px !important;
+  position: absolute !important;
+  top: 16px !important;
+  width: 205px !important;
+}
+
+.screen-screen .frame-76 {
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 218px;
+}
+
+.screen-screen .frame-77 {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 786px;
+  position: absolute;
+  top: 30px;
+}
+
+.screen-screen .view-2 {
+  position: relative !important;
+}
+
+.screen-screen .polygon-4 {
+  height: 139px;
+  left: 1298px;
+  position: absolute;
+  top: 108px;
+  width: 126px;
+}

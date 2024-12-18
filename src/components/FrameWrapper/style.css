@@ -1,0 +1,57 @@
+.frame-wrapper {
+	height: 319px;
+	width: 458px;
+}
+
+.frame-wrapper .overlap-group-6 {
+	background-color: var(--collection-1-color-main-3);
+	border-radius: 20px;
+	height: 313px;
+	position: relative;
+	top: 6px;
+	transition: 0.2s ease;
+}
+
+.frame-wrapper .element {
+	color: var(--collection-1-color-main-2);
+	font-family: 'Muller-Regular', Helvetica;
+	font-size: 56px;
+	font-weight: 400;
+	height: 44px;
+	left: 32px;
+	letter-spacing: 0;
+	line-height: 55px;
+	position: absolute;
+	top: 31px;
+	white-space: nowrap;
+	width: 170px;
+}
+
+.frame-wrapper .text-wrapper-5 {
+	color: var(--collection-1-color-main-2);
+	font-family: var(--HEADING-font-family);
+	font-size: var(--HEADING-font-size);
+	font-style: var(--HEADING-font-style);
+	font-weight: var(--HEADING-font-weight);
+	height: 29px;
+	left: 32px;
+	letter-spacing: var(--HEADING-letter-spacing);
+	line-height: var(--HEADING-line-height);
+	position: absolute;
+	top: 187px;
+	width: 170px;
+}
+
+.frame-wrapper .p {
+	color: var(--collection-1-color-main-2);
+	font-family: var(--main-text-font-family);
+	font-size: var(--main-text-font-size);
+	font-style: var(--main-text-font-style);
+	font-weight: var(--main-text-font-weight);
+	left: 32px;
+	letter-spacing: var(--main-text-letter-spacing);
+	line-height: var(--main-text-line-height);
+	position: absolute;
+	top: 232px;
+	width: 378px;
+}

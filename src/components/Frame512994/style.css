@@ -1,0 +1,105 @@
+.frame-512994 {
+  height: 68px;
+}
+
+.frame-512994 .overlap-group-3 {
+  height: 59px;
+  left: -4px;
+  position: relative;
+  top: 2px;
+}
+
+.frame-512994 .rectangle-3 {
+  background-color: #fafafa;
+  border-radius: 40px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.frame-512994 .vector-2 {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 39px;
+  width: 26px;
+}
+
+.frame-512994 .div-3 {
+  color: #7a7a7a;
+  font-family: var(--DESCRIPTION-i-font-family);
+  font-size: var(--DESCRIPTION-i-font-size);
+  font-style: var(--DESCRIPTION-i-font-style);
+  font-weight: var(--DESCRIPTION-i-font-weight);
+  letter-spacing: var(--DESCRIPTION-i-letter-spacing);
+  line-height: var(--DESCRIPTION-i-line-height);
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.frame-512994.property-1-6-default {
+  width: 308px;
+}
+
+.frame-512994.property-1-6-variant-3 {
+  width: 321px;
+}
+
+.frame-512994.property-1-6-variant-4 {
+  width: 294px;
+}
+
+.frame-512994.property-1-6-variant-2 {
+  width: 345px;
+}
+
+.frame-512994.property-1-6-default .overlap-group-3 {
+  width: 290px;
+}
+
+.frame-512994.property-1-6-variant-3 .overlap-group-3 {
+  width: 325px;
+}
+
+.frame-512994.property-1-6-variant-4 .overlap-group-3 {
+  width: 298px;
+}
+
+.frame-512994.property-1-6-variant-2 .overlap-group-3 {
+  width: 349px;
+}
+
+.frame-512994.property-1-6-default .rectangle-3 {
+  width: 290px;
+}
+
+.frame-512994.property-1-6-variant-3 .rectangle-3 {
+  width: 325px;
+}
+
+.frame-512994.property-1-6-variant-4 .rectangle-3 {
+  width: 298px;
+}
+
+.frame-512994.property-1-6-variant-2 .rectangle-3 {
+  width: 349px;
+}
+
+.frame-512994.property-1-6-default .div-3 {
+  left: 22px;
+}
+
+.frame-512994.property-1-6-variant-3 .div-3 {
+  left: 23px;
+}
+
+.frame-512994.property-1-6-variant-4 .div-3 {
+  left: 23px;
+}
+
+.frame-512994.property-1-6-variant-2 .div-3 {
+  left: 22px;
+}

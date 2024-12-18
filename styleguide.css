@@ -1,0 +1,117 @@
+:root {
+	--BUTTONS-font-family: 'Raleway', Helvetica;
+	--BUTTONS-font-size: 16px;
+	--BUTTONS-font-style: normal;
+	--BUTTONS-font-weight: 500;
+	--BUTTONS-i-font-family: 'Raleway', Helvetica;
+	--BUTTONS-i-font-size: 12px;
+	--BUTTONS-i-font-style: normal;
+	--BUTTONS-i-font-weight: 500;
+	--BUTTONS-i-letter-spacing: 0px;
+	--BUTTONS-i-line-height: normal;
+	--BUTTONS-letter-spacing: 0px;
+	--BUTTONS-line-height: normal;
+	--collection-1-color-background: rgba(238, 237, 242, 1);
+	--collection-1-color-extra-1: rgba(226, 225, 234, 1);
+	--collection-1-color-extra-2: rgba(255, 146, 123, 1);
+	--collection-1-color-main: rgba(249, 92, 59, 1);
+	--collection-1-color-main-2: rgba(0, 0, 0, 1);
+	--collection-1-color-main-3: rgba(255, 255, 255, 1);
+	--DESCRIPTION-font-family: 'Raleway', Helvetica;
+	--DESCRIPTION-font-size: 20px;
+	--DESCRIPTION-font-style: normal;
+	--DESCRIPTION-font-weight: 600;
+	--DESCRIPTION-i-font-family: 'Raleway', Helvetica;
+	--DESCRIPTION-i-font-size: 16px;
+	--DESCRIPTION-i-font-style: normal;
+	--DESCRIPTION-i-font-weight: 600;
+	--DESCRIPTION-i-letter-spacing: 0px;
+	--DESCRIPTION-i-line-height: 120.00000476837158%;
+	--DESCRIPTION-letter-spacing: 0px;
+	--DESCRIPTION-line-height: 120.00000476837158%;
+	--extra-information-font-family: 'Raleway', Helvetica;
+	--extra-information-font-size: 18px;
+	--extra-information-font-style: normal;
+	--extra-information-font-weight: 500;
+	--extra-information-letter-spacing: 0px;
+	--extra-information-line-height: 120.00000476837158%;
+	--extra-informaton-i-font-family: 'Raleway', Helvetica;
+	--extra-informaton-i-font-size: 14px;
+	--extra-informaton-i-font-style: normal;
+	--extra-informaton-i-font-weight: 500;
+	--extra-informaton-i-letter-spacing: 0px;
+	--extra-informaton-i-line-height: 120.00000476837158%;
+	--HEADING-font-family: 'Raleway', Helvetica;
+	--HEADING-font-size: 24px;
+	--HEADING-font-style: normal;
+	--HEADING-font-weight: 600;
+	--HEADING-i-font-family: 'Raleway', Helvetica;
+	--HEADING-i-font-size: 17px;
+	--HEADING-i-font-style: normal;
+	--HEADING-i-font-weight: 600;
+	--HEADING-i-letter-spacing: 0px;
+	--HEADING-i-line-height: 120.00000476837158%;
+	--HEADING-letter-spacing: 0px;
+	--HEADING-line-height: 120.00000476837158%;
+	--main-text-font-family: 'Raleway', Helvetica;
+	--main-text-font-size: 20px;
+	--main-text-font-style: normal;
+	--main-text-font-weight: 500;
+	--main-text-i-font-family: 'Raleway', Helvetica;
+	--main-text-i-font-size: 16px;
+	--main-text-i-font-style: normal;
+	--main-text-i-font-weight: 500;
+	--main-text-i-letter-spacing: 0px;
+	--main-text-i-line-height: 120.00000476837158%;
+	--main-text-letter-spacing: 0px;
+	--main-text-line-height: 120.00000476837158%;
+	--numbers-font-family: 'Inter', Helvetica;
+	--numbers-font-size: 56px;
+	--numbers-font-style: normal;
+	--numbers-font-weight: 400;
+	--numbers-i-font-family: 'Muller', Helvetica;
+	--numbers-i-font-size: 28px;
+	--numbers-i-font-style: normal;
+	--numbers-i-font-weight: 400;
+	--numbers-i-letter-spacing: 0px;
+	--numbers-i-line-height: normal;
+	--numbers-letter-spacing: 0px;
+	--numbers-line-height: normal;
+	--TITLE-font-family: 'Raleway', Helvetica;
+	--TITLE-font-size: 36px;
+	--TITLE-font-style: normal;
+	--TITLE-font-weight: 600;
+	--TITLE-i-font-family: 'Raleway', Helvetica;
+	--TITLE-i-font-size: 26px;
+	--TITLE-i-font-style: normal;
+	--TITLE-i-font-weight: 600;
+	--TITLE-i-letter-spacing: 0px;
+	--TITLE-i-line-height: normal;
+	--TITLE-letter-spacing: 0px;
+	--TITLE-line-height: 55px;
+}
+button {
+	cursor: pointer !important;
+}
+* {
+	scroll-behavior: smooth;
+}
+#POSSIBILITIES,
+#COMMUNITY,
+#QUESTIONS {
+	scroll-margin-top: 110px;
+}
+@media screen and (max-width: 1440px) {
+	#POSSIBILITIES,
+	#COMMUNITY,
+	#QUESTIONS {
+		scroll-margin-top: 85px;
+	}
+}
+@media screen and (max-width: 834px) {
+	#POSSIBILITIES,
+	#COMMUNITY,
+	#QUESTIONS {
+		scroll-margin-top: 20px;
+	}
+}

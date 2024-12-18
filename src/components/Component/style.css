@@ -1,0 +1,109 @@
+.component {
+	width: 330px;
+}
+
+.component .overlap-group-2 {
+	position: relative;
+}
+
+.component .img {
+	left: 304px;
+	position: absolute;
+	width: 26px;
+}
+
+.component .rectangle-2 {
+	background-color: #000000;
+	border-radius: 20px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 330px;
+}
+
+.component .div-2 {
+	color: var(--collection-1-color-main-3);
+	font-family: var(--main-text-i-font-family);
+	font-size: var(--main-text-i-font-size);
+	font-style: var(--main-text-i-font-style);
+	font-weight: var(--main-text-i-font-weight);
+	left: 21px;
+	letter-spacing: var(--main-text-i-letter-spacing);
+	line-height: var(--main-text-i-line-height);
+	position: absolute;
+	top: 19px;
+	width: 288px;
+}
+
+.component.property-1-2-default {
+	height: 122px;
+}
+
+.component.property-1-2-variant-3 {
+	height: 102px;
+}
+
+.component.property-1-2-variant-4 {
+	height: 122px;
+}
+
+.component.property-1-2-variant-2 {
+	height: 122px;
+}
+
+.component.property-1-2-default .overlap-group-2 {
+	height: 122px;
+}
+
+.component.property-1-2-variant-3 .overlap-group-2 {
+	height: 103px;
+	top: 1px;
+}
+
+.component.property-1-2-variant-4 .overlap-group-2 {
+	height: 103px;
+}
+
+.component.property-1-2-variant-2 .overlap-group-2 {
+	height: 122px;
+}
+
+.component.property-1-2-default .img {
+	height: 20px;
+	top: 102px;
+}
+
+.component.property-1-2-variant-3 .img {
+	height: 20px;
+	top: 83px;
+}
+
+.component.property-1-2-variant-4 .img {
+	height: 17px;
+	top: 86px;
+}
+
+.component.property-1-2-variant-2 .img {
+	height: 20px;
+	top: 102px;
+}
+
+.component.property-1-2-default .rectangle-2 {
+	height: 116px;
+}
+
+.component.property-1-2-variant-3 .rectangle-2 {
+	height: 98px;
+}
+
+.component.property-1-2-variant-4 .rectangle-2 {
+	height: 98px;
+}
+
+.component.property-1-2-variant-2 .rectangle-2 {
+	height: 116px;
+}
+
+.questions .text-wrapper-64 {
+	position: absolute;
+}

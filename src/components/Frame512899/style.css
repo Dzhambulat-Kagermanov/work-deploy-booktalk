@@ -1,0 +1,66 @@
+.frame-512899 {
+  align-items: center;
+  background-color: var(--collection-1-color-background);
+  border-radius: 37px;
+  display: flex;
+  gap: 10px;
+  height: 44px;
+  padding: 10px 11px 10px 20px;
+  position: relative;
+  width: 274px;
+}
+
+.frame-512899 .email {
+  position: relative;
+}
+
+.frame-512899 .property-1-18-variant-4 {
+  background-color: #eeedf2;
+  height: 24px;
+  width: 1px;
+}
+
+.frame-512899 .property-1-18-variant-2 {
+  color: #0b0707;
+  font-family: var(--main-text-font-family);
+  font-size: var(--main-text-font-size);
+  font-style: var(--main-text-font-style);
+  font-weight: var(--main-text-font-weight);
+  letter-spacing: var(--main-text-letter-spacing);
+  line-height: var(--main-text-line-height);
+  margin-top: -1.50px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-512899 .property-1-18-variant-3 {
+  background-color: #000000;
+  height: 24px;
+  width: 1px;
+}
+
+.frame-512899 .property-1-18-variant-5 {
+  color: #000000;
+  font-family: var(--main-text-font-family);
+  font-size: var(--main-text-font-size);
+  font-style: var(--main-text-font-style);
+  font-weight: var(--main-text-font-weight);
+  letter-spacing: var(--main-text-letter-spacing);
+  line-height: var(--main-text-line-height);
+  margin-top: -1.50px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-512899 .property-1-18-default {
+  color: #a09f9f;
+  font-family: var(--main-text-font-family);
+  font-size: var(--main-text-font-size);
+  font-style: var(--main-text-font-style);
+  font-weight: var(--main-text-font-weight);
+  letter-spacing: var(--main-text-letter-spacing);
+  line-height: var(--main-text-line-height);
+  margin-top: -1.50px;
+  white-space: nowrap;
+  width: fit-content;
+}

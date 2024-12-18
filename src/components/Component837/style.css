@@ -1,0 +1,23 @@
+.component-837 {
+	height: 16px;
+	position: relative;
+	width: 85px;
+}
+
+.component-837 .text-wrapper-3 {
+	transition: 0.2s ease;
+	cursor: pointer;
+	color: var(--collection-1-color-main-3);
+	font-family: var(--BUTTONS-font-family);
+	font-size: var(--BUTTONS-font-size);
+	font-style: var(--BUTTONS-font-style);
+	font-weight: var(--BUTTONS-font-weight);
+	height: 16px;
+	left: 0;
+	letter-spacing: var(--BUTTONS-letter-spacing);
+	line-height: var(--BUTTONS-line-height);
+	position: absolute;
+	top: -1px;
+	white-space: nowrap;
+	width: 85px;
+}

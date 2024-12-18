@@ -1,0 +1,35 @@
+.frame {
+	align-items: center;
+	background-color: var(--collection-1-color-main);
+	border: 1.5px solid;
+	border-color: var(--collection-1-color-main);
+	border-radius: 10000px;
+	display: flex;
+	gap: 10px;
+	height: 34px;
+	justify-content: center;
+	padding: 17px 15px;
+	position: relative;
+	width: 168px;
+	transition: 0.2s;
+}
+
+.frame .text-wrapper {
+	color: var(--collection-1-color-main-3);
+	font-family: var(--BUTTONS-i-font-family);
+	font-size: var(--BUTTONS-i-font-size);
+	font-style: var(--BUTTONS-i-font-style);
+	font-weight: var(--BUTTONS-i-font-weight);
+	letter-spacing: var(--BUTTONS-i-letter-spacing);
+	line-height: var(--BUTTONS-i-line-height);
+	margin-bottom: -5.5px;
+	margin-top: -8.5px;
+	position: relative;
+	white-space: nowrap;
+	width: fit-content;
+}
+
+.frame:hover {
+	background-color: var(--collection-1-color-main-2);
+	border-color: var(--collection-1-color-main-2);
+}

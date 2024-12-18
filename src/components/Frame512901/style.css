@@ -1,0 +1,68 @@
+.frame-512901 {
+  background-color: var(--collection-1-color-main-3);
+  border-radius: 20px;
+  height: 324px;
+  position: relative;
+  width: 696px;
+}
+
+.frame-512901 .text-wrapper-6 {
+  color: var(--collection-1-color-main-2);
+  font-family: var(--main-text-font-family);
+  font-size: var(--main-text-font-size);
+  font-style: var(--main-text-font-style);
+  font-weight: var(--main-text-font-weight);
+  left: 31px;
+  letter-spacing: var(--main-text-letter-spacing);
+  line-height: var(--main-text-line-height);
+  position: absolute;
+  top: 219px;
+  width: 515px;
+}
+
+.frame-512901 .text-wrapper-7 {
+  color: var(--collection-1-color-main-2);
+  font-family: var(--HEADING-font-family);
+  font-size: var(--HEADING-font-size);
+  font-style: var(--HEADING-font-style);
+  font-weight: var(--HEADING-font-weight);
+  left: 31px;
+  letter-spacing: var(--HEADING-letter-spacing);
+  line-height: var(--HEADING-line-height);
+  position: absolute;
+  top: 173px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.frame-512901 .frame-2 {
+  align-items: center;
+  background-color: var(--collection-1-color-background);
+  border-radius: 30px;
+  display: flex;
+  gap: 10px;
+  height: 30px;
+  justify-content: center;
+  left: 31px;
+  padding: 16px 60px 14px;
+  position: absolute;
+  top: 32px;
+  width: 149px;
+}
+
+.frame-512901 .text-wrapper-8 {
+  color: var(--collection-1-color-main-2);
+  font-family: var(--BUTTONS-font-family);
+  font-size: var(--BUTTONS-font-size);
+  font-style: var(--BUTTONS-font-style);
+  font-weight: var(--BUTTONS-font-weight);
+  letter-spacing: var(--BUTTONS-letter-spacing);
+  line-height: var(--BUTTONS-line-height);
+  margin-bottom: -8.50px;
+  margin-left: -51.00px;
+  margin-right: -51.00px;
+  margin-top: -10.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

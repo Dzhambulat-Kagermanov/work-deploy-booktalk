@@ -1,0 +1,105 @@
+.frame-512947 {
+  height: 91px;
+}
+
+.frame-512947 .overlap-group-7 {
+  height: 91px;
+  position: relative;
+}
+
+.frame-512947 .rectangle-6 {
+  border-radius: 44px;
+  height: 86px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-512947 .vector-5 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 42px;
+}
+
+.frame-512947 .div-6 {
+  font-family: var(--DESCRIPTION-font-family);
+  font-size: var(--DESCRIPTION-font-size);
+  font-style: var(--DESCRIPTION-font-style);
+  font-weight: var(--DESCRIPTION-font-weight);
+  letter-spacing: var(--DESCRIPTION-letter-spacing);
+  line-height: var(--DESCRIPTION-line-height);
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.frame-512947.property-1-19-default {
+  width: 369px;
+}
+
+.frame-512947.property-1-19-variant-3 {
+  width: 369px;
+}
+
+.frame-512947.property-1-19-variant-4 {
+  width: 420px;
+}
+
+.frame-512947.property-1-19-variant-2 {
+  width: 420px;
+}
+
+.frame-512947.property-1-19-variant-3 .overlap-group-7 {
+  width: 383px;
+}
+
+.frame-512947.property-1-19-variant-4 .overlap-group-7 {
+  width: 452px;
+}
+
+.frame-512947.property-1-19-default .rectangle-6 {
+  background-color: var(--collection-1-color-main-3);
+  width: 367px;
+}
+
+.frame-512947.property-1-19-variant-3 .rectangle-6 {
+  background-color: var(--collection-1-color-main-3);
+  width: 381px;
+}
+
+.frame-512947.property-1-19-variant-4 .rectangle-6 {
+  background-color: var(--collection-1-color-main-3);
+  width: 450px;
+}
+
+.frame-512947.property-1-19-variant-2 .rectangle-6 {
+  background-color: #ffffff;
+  width: 418px;
+}
+
+.frame-512947.property-1-19-default .div-6 {
+  color: var(--collection-1-color-main-2);
+  left: 34px;
+  width: 303px;
+}
+
+.frame-512947.property-1-19-variant-3 .div-6 {
+  color: var(--collection-1-color-main-2);
+  left: 36px;
+  width: 315px;
+}
+
+.frame-512947.property-1-19-variant-4 .div-6 {
+  color: var(--collection-1-color-main-2);
+  left: 34px;
+  width: 386px;
+}
+
+.frame-512947.property-1-19-variant-2 .div-6 {
+  color: #000000;
+  left: 35px;
+  width: 356px;
+}

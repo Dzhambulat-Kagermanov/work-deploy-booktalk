@@ -1,0 +1,105 @@
+.property-default-wrapper {
+  height: 68px;
+}
+
+.property-default-wrapper .overlap-group {
+  height: 59px;
+  left: -4px;
+  position: relative;
+  top: 2px;
+}
+
+.property-default-wrapper .rectangle {
+  background-color: var(--collection-1-color-main-3);
+  border-radius: 40px;
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.property-default-wrapper .vector {
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 39px;
+  width: 26px;
+}
+
+.property-default-wrapper .div {
+  color: var(--collection-1-color-main-2);
+  font-family: var(--DESCRIPTION-i-font-family);
+  font-size: var(--DESCRIPTION-i-font-size);
+  font-style: var(--DESCRIPTION-i-font-style);
+  font-weight: var(--DESCRIPTION-i-font-weight);
+  letter-spacing: var(--DESCRIPTION-i-letter-spacing);
+  line-height: var(--DESCRIPTION-i-line-height);
+  position: absolute;
+  text-align: center;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.property-default-wrapper.default {
+  width: 308px;
+}
+
+.property-default-wrapper.variant-3 {
+  width: 321px;
+}
+
+.property-default-wrapper.variant-4 {
+  width: 294px;
+}
+
+.property-default-wrapper.variant-2 {
+  width: 345px;
+}
+
+.property-default-wrapper.default .overlap-group {
+  width: 290px;
+}
+
+.property-default-wrapper.variant-3 .overlap-group {
+  width: 325px;
+}
+
+.property-default-wrapper.variant-4 .overlap-group {
+  width: 298px;
+}
+
+.property-default-wrapper.variant-2 .overlap-group {
+  width: 349px;
+}
+
+.property-default-wrapper.default .rectangle {
+  width: 290px;
+}
+
+.property-default-wrapper.variant-3 .rectangle {
+  width: 325px;
+}
+
+.property-default-wrapper.variant-4 .rectangle {
+  width: 298px;
+}
+
+.property-default-wrapper.variant-2 .rectangle {
+  width: 349px;
+}
+
+.property-default-wrapper.default .div {
+  left: 22px;
+}
+
+.property-default-wrapper.variant-3 .div {
+  left: 23px;
+}
+
+.property-default-wrapper.variant-4 .div {
+  left: 23px;
+}
+
+.property-default-wrapper.variant-2 .div {
+  left: 22px;
+}

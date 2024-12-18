@@ -1,0 +1,14 @@
+.component-836 {
+	height: 16px;
+	width: 135px;
+}
+
+.component-836 .class {
+	transition: 0.2s ease;
+	cursor: pointer;
+	color: var(--collection-1-color-main) !important;
+}
+
+.component-836 .component-835 {
+	width: unset !important;
+}
